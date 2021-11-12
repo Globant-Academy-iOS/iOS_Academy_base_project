@@ -1,4 +1,4 @@
-# Academy Montevideo 2021
+# Academy iOS 2021
 
 The repository will be used for trainees to save course progress. 
 The course is divided into modules, for each module the user will create his own branch to work with the format:
